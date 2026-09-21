@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Aging-like BAC sectors and load×gain Gompertz regimes on one shared subsystem toy"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  On one shared subsystem toy, do aging-like Bounded Adaptive Coherence
+  sectors coincide with load×gain regimes that produce Gompertz-like hazard,
+  or do the two objects carve different regions? They carve different regions.
+  The five-index weight matrix of Thesis #18 is read by that deposit's
+  grounded-Laplacian classifier and, on the same paths, by the load×gain
+  residual test of Thesis #13. At zero damage-rate gain the exponential map is
+  an exact Gompertz hazard on every class, and only global decay is
+  aging-like. At gain 0.01 the aging-like path fails the chi-squared budget
+  while an uneven path classed neither still passes. On a 13 by 13 rate grid
+  at gain 0.02 the two sets are disjoint. No rejuvenation claim. Not a
+  medical device. No document DOI.
+keywords:
+  - bounded adaptive coherence
+  - Gompertz hazard
+  - load-gain coupling
+  - grounded Laplacian
+  - sector classifier
+  - subsystem toy
+  - residual test
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain"
+repository-code: "https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain"
+preferred-citation:
+  type: thesis
+  title: "Aging-like BAC sectors and load×gain Gompertz regimes on one shared subsystem toy"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-25-bac-sectors-vs-gompertz-gain"
+  notes: "Thesis #25. Depends on Thesis #13 and Thesis #18. Computational research. Shared five-index toy, not a clinical result. No document DOI. Not a rejuvenation or dose claim."
